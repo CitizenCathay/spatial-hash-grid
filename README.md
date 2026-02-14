@@ -10,8 +10,8 @@ Interactive demonstration of spatial hash grid collision detection with real-tim
 ## Team Members
 
 - **Choi Meng Yew** (2401822@sit.singaporetech.edu.sg)
-- **Alyssa Cerrero Nicole Alejandro**
-- **Chan Qi Ying**
+- **Alyssa Cerrero Nicole Alejandro** (2402435@sit.singaporetech.edu.sg)
+- **Chan Qi Ying** (2402302@sit.singaporetech.edu.sg)
 
 ---
 
