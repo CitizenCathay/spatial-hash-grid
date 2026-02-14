@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="spatial-hash-grid/spatial-hash-grid.vcxproj" Id="069f4549-3ef0-424e-9a81-14ac04902fb9" />
+</Solution>
